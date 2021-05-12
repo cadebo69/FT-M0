@@ -1,0 +1,21 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables
+Se trata de una especie de caja, en la que se puede guardar cualquier tipo de dato (un numero, un texto) con la intencion de usarlo mas adelante,
+en nuestro codigo.  Una variable es lo totalmente opuesto a una constante.
+
+	* Strings
+Se trata de un tipo de dato, asi como hay datos numericos (que son evidentemente numeros),hay datos Strings, que son evidentemente letras o caracteres
+que se necesitaran durante el codigo ( por ejemplo "Hola", "Digita tu nombre")
+
+	* Funciones (argumentos, `return`)
+Los argumentos permiten establecer los parametros, se trata de los valores o caracteristicas, que le son asignados a las variables.  El return se 
+utiliza para retornar alguno de los valores que se este generando en el codigo.
+
+	* Declaraciones `if`
+Tal con su traduccion lo indica, (if se traduce como si, no de afirmacion sino de condicion), esta palabra if se usa para codificar ejercicios
+en los que sea necesario preguntar en forma de condicion (ejemplo, si tienes menos de 18 anios, entonces eres menor de edad)
+
+	* Valores booleanos (`true`, `false`)
+Son tipos de datos, asi como existen los datos numericos y Strings, tambien existen los valores booleanos, se utilizan en los ejercicios, 
+en los que solo es posible este tipo de respuesta (ejemplo, tienes acceso al sistema, solo hay dos opciones: si o no)
