@@ -1,0 +1,25 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Objetos
+Es importante traer elementos de la vida real a la programacion, de esta manera, los objetos son todos los elementos que podemos encontrarnos en 
+la vida real (todos los sustantivos), cada objeto, como sucede normalente, tiene unas caracteristicas que lo diferencian, por ejemplo un carro tiene un 
+color, un modelo, una placa.
+
+	* Propiedades
+Es un identificador que posee un determinado tipo de dato, por ejemplo el objeto carro, tiene como propiedades un color especifico, un modelo en particular
+una placa.
+
+	* Métodos
+Estos, nos permiten dividir el trabajo que hace un programa, en tareas más pequeñas separadas de la parte principal. Se refiere a las acciones
+que se pueden asociar a un objeto, por ejemplo, los metodos del objeto balon son rodar y rebotar
+
+	* Bucle `for…in`
+El Bucle o ciclo for, se utiliza generalmente para recorrer un conjunto de datos o para evitar repetir mucho codigo, Un for en programación 
+se utiliza cuando queremos repetir un conjunto de instrucciones un número finito de veces.
+
+	* Notación de puntos vs notación de corchetes
+Cuando ingresamos a las propiedades y métodos de un objeto podemos usar la notación de punto (dot notation). El nombre del objeto (persona) 
+actúa como el espacio de nombre, entonces escribimos un punto y luego el elemento al que necesitamos acceder: persona.nombre
+Hay otra manera de ingresar a las propiedades del objeto, usando la notación de corchetes. En lugar de usar puntos, asi: persona["nombre"]
+Son formas muy similares de acceder  a los elementos en un arreglo, y básicamente es lo mismo.
+
