@@ -1,0 +1,10 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `prototype`
+Los prototipos o prototype son un conjunto de normas para integrar Programación Orientada a Objetos en JavaScript. Siguiendo estas reglas
+debemos ser capaces de crear las distintas metodologías, tal como la herencia.  Cuando usamos prototipos, estamos muy cerca de la programación
+de alto nivel.
+
+* _Constructors_ (de Clases)
+Un constructor es un método especial capaz de llamarse automáticamente, al momento de declarar un objeto de esa clase. Esto hara que se 
+inicialice el objeto y sirve para estar seguros de que los objetos siempre contengan valores válidos.
