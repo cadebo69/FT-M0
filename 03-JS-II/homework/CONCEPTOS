@@ -1,0 +1,21 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for`
+Se trata de un ciclo, en programacion se dice que es una estructuras de control de flujo, nos permiten ejecutar una o varias líneas de código
+ de forma repetida o iterativa, se debe conocer un valor o condicion especifica inicial y otro valor o condicion final, pues este ciclo debe
+ tener un fin.
+
+
+* `&&`, `||`, `!`
+
+Estos tres signos reciben el nombre de operadores logicos, hacen referencia a operaciones matematicas, pues cada operador tiene una tabla con
+valores representados por ceros y unos (tablas de verdad se llaman)
+
+&& este signo representa el valor logico "Y", y su operacion matematica corresponde a la multiplicacion, solo sera positivo (o verdadero) cuando 
+todas las condiciones asi lo sean.  (con un solo valor negativo, el resultado sera negativo)
+
+|| este signo representa el valor logico "O", y su operacion matematica corresponde a la suma, solo sera negativo (o falso) cuando 
+todas las condiciones sean falsas (con un solo valor positivo, el resultado sera positivo)
+
+! este signo representa el valor de negacion, si se antepone a un valor uno, automaticamente se convertira en cero, si se antepone a un valor
+verdadero, automaticamente se convertira en falso
